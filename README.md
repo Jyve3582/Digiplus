@@ -18,7 +18,7 @@ Customers won't have access to software included in the core-server nor remote m
 This part is a private creation that only Distributor can claim behavior.
 
 
- Back-end (Server-sided) - FOR CUSTOMER SUPPORT & COMMERCIAL OPERATIONS 
+ Back-end (Server-sided) - FOR CUSTOMER SUPPORT & OPERATORS 
 ------------------------------------------------------------------------
 
 Global UX interface with 

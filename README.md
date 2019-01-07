@@ -17,7 +17,7 @@ Although development is based on free license principles, the work done to devel
 Customers won't have access to software included in the core-server nor remote machine neither to the source-code. 
 This part is a private creation that only Distributor can claim behavior.
 
-------------------------------------------------------------------------
+
  Back-end (Server-sided) - FOR CUSTOMER SUPPORT & COMMERCIAL OPERATIONS 
 ------------------------------------------------------------------------
 
@@ -27,14 +27,14 @@ Global UX interface with
 - Information settings (Newsfeed with teasers for incoming updates, videos links to YT with tutorials, salesplans...)
 - LiveCheck [Like Nagios] (Global visualisation interface with realtime state of all remote machines sorted by customer account - possibly geolocalisation - triggers like mails to support team and customers where something wrong appears - disconnected from network, appcrash, catchlog...). 
 
-------------------------------------------------------------------------
+
  Back-end (Server-sided) - FOR DEV AND SUPPORT ONLY 
 ------------------------------------------------------------------------
 
 It's the core of the software. 
 All the mechanics are there. Lot of technology used inside and constant optimizations to reach the best software using and comportment for customers and us of course.
 
-------------------------------------------------------------------------
+
  Front-end (Server-sided) - FOR CUSTOMERS (MODULES)
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Global [CLEAN, GLITTER, ERGONOMIC and USER FRIENDLY] UX interface with
 - Licensing menu with all informations about license account used (depends on chosen package, ...) License status reminders and renewal deadlines...
 
 
-------------------------------------------------------------------------
+
  REMOTE CLIENT - FOR DEV AND SUPPORT ONLY 
 ------------------------------------------------------------------------
 

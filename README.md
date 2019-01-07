@@ -15,7 +15,7 @@ Each part will be described in dedicated folders with complete documentation, vi
 IMPORTANT :
 Although development is based on free license principles, the work done to develop the entire tool remains the exclusive claim of the distributor.
 Customers won't have access to software included in the core-server nor remote machine neither to the source-code. 
-This part is a private creation that only Distributor can claim behavior.
+This part is a private creation that only Distributor can claim behavior as mentionned in comments in the beginning of the main information file in each folder.
 
 
  Back-end (Server-sided) - FOR CUSTOMER SUPPORT & OPERATORS 

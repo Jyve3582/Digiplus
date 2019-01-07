@@ -60,5 +60,5 @@ Global [CLEAN, GLITTER, ERGONOMIC and USER FRIENDLY] UX interface with
 Core embedded client-side software. 
 It communicates in a scheduled timed way to the main server to check if there are new changes, files to download, files to update or new instructions to execute.
 If no instructions, continue what's doing on and wait the next time to check.
-If new instructions, catch and treat new ones, prepare in background and switch smoothly for transparent customer experience. After new instructions treated, send log for quality purpopses.
+If new instructions, catch and treat new ones, prepare in background and switch smoothly for transparent customer experience. After new instructions treated, send log for quality purposes.
 

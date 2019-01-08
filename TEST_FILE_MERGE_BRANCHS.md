@@ -10,3 +10,8 @@ Here is a first line of description
 Here is a second line of description
 Here is a third line of description
 -----------------------------------------
+<<<<<<< HEAD
+=======
+
+Here is an added line to the file after the dash line edited from the Branch01 at 2:00pm
+>>>>>>> Branch01
